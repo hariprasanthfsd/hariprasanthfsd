@@ -18,7 +18,7 @@
 
 ![HARIPRASANTH's Stats](https://github-readme-stats.vercel.app/api?username=HARIPRASANTH&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/hariprasanthfsd?theme=catppuccinMocha&font=Nobile)
+![LeetCode Stats](https://leetcard.jacoblin.cool/hari_1315?theme=catppuccinMocha&font=Nobile)
 (https://leetcode.com/u/hariprasanthfsd/)
 
 
