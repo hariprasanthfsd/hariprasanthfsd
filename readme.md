@@ -22,6 +22,6 @@
 (https://leetcode.com/u/hariprasanthfsd/)
 
 
-![HARIPRASANTH's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MEGHABHARATHI&theme=vue-dark&hide_border=false)
+![HARIPRASANTH's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hariprasanth-fsd&theme=vue-dark&hide_border=false)
 
 ![HARIPRASANTH's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MEGHABHARATHI&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
