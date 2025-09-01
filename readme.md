@@ -24,4 +24,4 @@
 
 ![HARIPRASANTH's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hariprasanthfsd&theme=vue-dark&hide_border=false)
 
-![HARIPRASANTH's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MEGHABHARATHI&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![HARIPRASANTH's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasanthfsd&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
