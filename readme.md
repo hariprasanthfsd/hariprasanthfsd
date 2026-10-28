@@ -18,8 +18,8 @@
 
 ![HARIPRASANTH's Stats](https://github-readme-stats.vercel.app/api?username=hariprasanthfsd&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/meghabharathib?theme=catppuccinMocha&font=Nobile)
-(https://leetcode.com/u/meghabharathib/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/hari_1315?theme=catppuccinMocha&font=Nobile)
+(https://leetcode.com/u/hari_1315/)
 
 
 ![HARIPRASANTH's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hariprasanthfsd&theme=vue-dark&hide_border=false)
